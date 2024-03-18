@@ -3,62 +3,52 @@
     {
       "id": "1",
       "title": "500 Startups",
-      "description": "Venture capital firm providing seed funding and accelerator programs to startups.",
-      "retire": false
+      "description": "Venture capital firm providing seed funding and accelerator programs to startups."
     },
     {
       "id": "2",
       "title": "Guy Kawasaki",
-      "description": "Entrepreneur, author, and former chief evangelist of Apple.",
-      "retire": false
+      "description": "Entrepreneur, author, and former chief evangelist of Apple."
     },
     {
       "id": "3",
       "title": "NextView Ventures",
-      "description": "Early-stage venture capital firm investing in technology-enabled startups.",
-      "retire": false
+      "description": "Early-stage venture capital firm investing in technology-enabled startups."
     },
     {
       "id": "4",
       "title": "CrowdFunder",
-      "description": "Equity crowdfunding platform connecting investors with startups and small businesses.",
-      "retire": false
+      "description": "Equity crowdfunding platform connecting investors with startups and small businesses."
     },
     {
       "id": "5",
       "title": "AirBnb Pitch Deck",
-      "description": "The original pitch deck used by Airbnb to secure initial funding and launch their platform.",
-      "retire": false
+      "description": "The original pitch deck used by Airbnb to secure initial funding and launch their platform."
     },
     {
       "id": "6",
       "title": "TechNex Solutions",
-      "description": "Information technology company specializing in AI-powered solutions for businesses.",
-      "retire": false
+      "description": "Information technology company specializing in AI-powered solutions for businesses."
     },
     {
       "id": "7",
       "title": "TechNex Solutions",
-      "description": "Information technology company specializing in AI-powered solutions for businesses.",
-      "retire": false
+      "description": "Information technology company specializing in AI-powered solutions for businesses."
     },
     {
       "id": "8",
       "title": "HealthGen Innovations",
-      "description": "Healthcare company developing wearable health monitoring devices.",
-      "retire": false
+      "description": "Healthcare company developing wearable health monitoring devices."
     },
     {
       "id": "9",
       "title": "EcoPower Solutions",
-      "description": "Renewable energy company focusing on solar energy management systems.",
-      "retire": false
+      "description": "Renewable energy company focusing on solar energy management systems."
     },
     {
       "id": "10",
       "title": "FinServe Technologies",
-      "description": "Financial technology firm providing AI-driven investment advisory solutions.",
-      "retire": false
+      "description": "Financial technology firm providing AI-driven investment advisory solutions."
     }
   ],
   "scheduleLogs": [
@@ -69,14 +59,9 @@
       "time": "10:00 AM - 11:00 AM",
       "activity": "Internal Rehearsal",
       "location": "Office Boardroom",
-      "presenters": [
-        "John",
-        "Sarah",
-        "Michael"
-      ],
+      "presenters": ["John", "Sarah", "Michael"],
       "audience": "Internal Team",
-      "purpose_objective": "Practice pitch delivery and receive feedback",
-      "notes": "Adjusted slide transitions and timing for smoother presentation."
+      "purpose_objective": "Practice pitch delivery and receive feedback"
     },
     {
       "id": "2",
@@ -85,13 +70,9 @@
       "time": "2:00 PM - 3:00 PM",
       "activity": "Client Presentation",
       "location": "Client's Office",
-      "presenters": [
-        "John",
-        "Emma"
-      ],
+      "presenters": ["John", "Emma"],
       "audience": "Client Representatives",
-      "purpose_objective": "Pitch our new product line and secure investment",
-      "notes": "Discussed pricing strategies and addressed client queries."
+      "purpose_objective": "Pitch our new product line and secure investment"
     },
     {
       "id": "3",
@@ -100,13 +81,9 @@
       "time": "9:00 AM - 10:00 AM",
       "activity": "Investor Pitch",
       "location": "Investor's Office",
-      "presenters": [
-        "John",
-        "CEO"
-      ],
+      "presenters": ["John", "CEO"],
       "audience": "Potential Investors",
-      "purpose_objective": "Convince investors to fund our project",
-      "notes": "Highlighted market opportunities and financial projections."
+      "purpose_objective": "Convince investors to fund our project"
     },
     {
       "id": "4",
@@ -115,13 +92,9 @@
       "time": "11:00 AM - 12:00 PM",
       "activity": "Investor Meeting",
       "location": "Zoom Call",
-      "presenters": [
-        "Alex",
-        "Sarah"
-      ],
+      "presenters": ["Alex", "Sarah"],
       "audience": "Angel Investors",
-      "purpose_objective": "Discuss investment opportunities and growth plans",
-      "notes": "Reviewed financial projections and answered investor questions."
+      "purpose_objective": "Discuss investment opportunities and growth plans"
     },
     {
       "id": "5",
@@ -130,432 +103,9 @@
       "time": "3:00 PM - 4:00 PM",
       "activity": "Demo Day Pitch",
       "location": "Virtual Event",
-      "presenters": [
-        "Emily",
-        "David",
-        "Michael"
-      ],
+      "presenters": ["Emily", "David", "Michael"],
       "audience": "Venture Capitalists",
-      "purpose_objective": "Showcase product innovation and attract funding",
-      "notes": "Received positive feedback on product usability and market potential."
-    },
-    {
-      "id": "6",
-      "scheduleId": 6,
-      "date": "2024-03-25",
-      "time": "1:00 PM - 2:00 PM",
-      "activity": "Pitch Deck Review",
-      "location": "Office Conference Room",
-      "presenters": [
-        "John",
-        "Marketing Team"
-      ],
-      "audience": "Internal Stakeholders",
-      "purpose_objective": "Finalize pitch deck content and messaging",
-      "notes": "Incorporated latest market trends and competitive analysis into the presentation."
-    },
-    {
-      "id": "7",
-      "scheduleId": 7,
-      "date": "2024-04-02",
-      "time": "9:00 AM - 10:00 AM",
-      "activity": "Pitch Deck Refinement",
-      "location": "Company Headquarters",
-      "presenters": [
-        "Emma",
-        "Marketing Team"
-      ],
-      "audience": "Internal Reviewers",
-      "purpose_objective": "Refine pitch deck visuals and messaging",
-      "notes": "Adjusted font sizes and colors for better readability. Incorporated feedback from previous rehearsals."
-    },
-    {
-      "id": "8",
-      "scheduleId": 8,
-      "date": "2024-04-05",
-      "time": "2:00 PM - 3:00 PM",
-      "activity": "Mock Investor Q&A Session",
-      "location": "Zoom Meeting",
-      "presenters": [
-        "David",
-        "Financial Analyst"
-      ],
-      "audience": "Internal Team",
-      "purpose_objective": "Simulate investor questions and refine responses",
-      "notes": "Covered potential queries on revenue projections and scalability. Discussed strategies for handling tough questions."
-    },
-    {
-      "id": "9",
-      "scheduleId": 9,
-      "date": "2024-04-10",
-      "time": "11:00 AM - 12:00 PM",
-      "activity": "Final Pitch Deck Rehearsal",
-      "location": "Company Boardroom",
-      "presenters": [
-        "John",
-        "CEO"
-      ],
-      "audience": "Executive Team",
-      "purpose_objective": "Practice pitch delivery and finalize presentation flow",
-      "notes": "Focused on maintaining a confident and engaging delivery style. Conducted timing run-throughs to ensure adherence to allotted time."
-    },
-    {
-      "id": "10",
-      "scheduleId": 10,
-      "date": "2024-04-15",
-      "time": "3:00 PM - 4:00 PM",
-      "activity": "Pitch Deck Walkthrough",
-      "location": "Virtual Meeting",
-      "presenters": [
-        "Emily",
-        "Product Development Team"
-      ],
-      "audience": "Key Stakeholders",
-      "purpose_objective": "Review product features and market positioning in the pitch deck",
-      "notes": "Discussed product differentiation and potential objections from investors."
-    },
-    {
-      "id": "11",
-      "scheduleId": 1,
-      "date": "2024-04-18",
-      "time": "10:00 AM - 11:00 AM",
-      "activity": "Investor Pitch Dry Run",
-      "location": "Office Conference Room",
-      "presenters": [
-        "Michael",
-        "COO"
-      ],
-      "audience": "Cross-Functional Team",
-      "purpose_objective": "Conduct a full run-through of the investor pitch presentation",
-      "notes": "Focused on transitions between slides and maintaining a cohesive narrative."
-    },
-    {
-      "id": "12",
-      "scheduleId": 2,
-      "date": "2024-04-20",
-      "time": "1:00 PM - 2:00 PM",
-      "activity": "Final Pitch Deck Review",
-      "location": "Virtual Meeting",
-      "presenters": [
-        "David",
-        "CEO"
-      ],
-      "audience": "Board of Directors",
-      "purpose_objective": "Seek approval for the finalized pitch deck",
-      "notes": "Addressed any remaining concerns and gained consensus on key messaging."
-    },
-    {
-      "id": "13",
-      "scheduleId": 3,
-      "date": "2024-04-22",
-      "time": "11:30 AM - 12:30 PM",
-      "activity": "Tech Check for Virtual Presentation",
-      "location": "Online Platform",
-      "presenters": [
-        "Emma",
-        "Technical Team"
-      ],
-      "audience": "Technical Support",
-      "purpose_objective": "Ensure smooth technical execution during the virtual pitch",
-      "notes": "Tested audio, video, and screen sharing functionality to avoid potential glitches."
-    },
-    {
-      "id": "14",
-      "scheduleId": 4,
-      "date": "2024-04-25",
-      "time": "9:30 AM - 10:30 AM",
-      "activity": "Pre-Pitch Meditation Session",
-      "location": "Office Quiet Room",
-      "presenters": [
-        "John",
-        "Entire Team"
-      ],
-      "audience": "Team Members",
-      "purpose_objective": "Relax and mentally prepare before the high-stakes pitch",
-      "notes": "Led a guided meditation session to calm nerves and foster focus."
-    },
-    {
-      "id": "15",
-      "scheduleId": 5,
-      "date": "2024-04-28",
-      "time": "2:30 PM - 3:30 PM",
-      "activity": "Investor Pitch Presentation",
-      "location": "Virtual Event",
-      "presenters": [
-        "John",
-        "Emma",
-        "David",
-        "Michael"
-      ],
-      "audience": "Investors Panel",
-      "purpose_objective": "Deliver the pitch deck to potential investors",
-      "notes": "Emphasized key market opportunities and projected growth metrics."
-    },
-    {
-      "id": "16",
-      "scheduleId": 6,
-      "date": "2024-05-02",
-      "time": "10:00 AM - 11:00 AM",
-      "activity": "Post-Pitch Debrief",
-      "location": "Office Breakroom",
-      "presenters": [
-        "John",
-        "Core Team"
-      ],
-      "audience": "Core Team Members",
-      "purpose_objective": "Reflect on the pitch performance and discuss next steps",
-      "notes": "Identified strengths and areas for improvement for future presentations."
-    },
-    {
-      "id": "17",
-      "scheduleId": 7,
-      "date": "2024-05-05",
-      "time": "11:00 AM - 12:00 PM",
-      "activity": "Follow-Up Meeting with Interested Investors",
-      "location": "Company Headquarters",
-      "presenters": [
-        "John",
-        "Financial Advisor"
-      ],
-      "audience": "Investor Representatives",
-      "purpose_objective": "Provide additional information and address inquiries from potential investors",
-      "notes": "Shared detailed financial projections and product roadmap with interested parties."
-    },
-    {
-      "id": "18",
-      "scheduleId": 8,
-      "date": "2024-05-08",
-      "time": "3:00 PM - 4:00 PM",
-      "activity": "Celebratory Team Lunch",
-      "location": "Local Restaurant",
-      "presenters": [
-        "Entire Team"
-      ],
-      "audience": "Team Members",
-      "purpose_objective": "Celebrate successful pitch and teamwork",
-      "notes": "Expressed gratitude for everyone's hard work and dedication."
-    },
-    {
-      "id": "19",
-      "scheduleId": 9,
-      "date": "2024-05-10",
-      "time": "9:00 AM - 10:00 AM",
-      "activity": "Strategy Meeting for Investor Feedback Implementation",
-      "location": "Office Boardroom",
-      "presenters": [
-        "John",
-        "Senior Management"
-      ],
-      "audience": "Management Team",
-      "purpose_objective": "Discuss actionable steps based on investor feedback",
-      "notes": "Outlined plans to address investor concerns and capitalize on opportunities."
-    },
-    {
-      "id": "20",
-      "scheduleId": 10,
-      "date": "2024-05-15",
-      "time": "2:00 PM - 3:00 PM",
-      "activity": "Feedback Session with Advisory Board",
-      "location": "Virtual Meeting",
-      "presenters": [
-        "Emma",
-        "Advisory Board Members"
-      ],
-      "audience": "Advisory Board",
-      "purpose_objective": "Gather input and suggestions from advisory board members",
-      "notes": "Received valuable insights on market positioning and potential partnerships."
-    },
-    {
-      "id": "21",
-      "scheduleId": 1,
-      "date": "2024-05-18",
-      "time": "11:00 AM - 12:00 PM",
-      "activity": "Pitch Deck Update",
-      "location": "Company Headquarters",
-      "presenters": [
-        "Michael",
-        "Marketing Team"
-      ],
-      "audience": "Cross-Functional Team",
-      "purpose_objective": "Incorporate feedback and refine pitch deck content",
-      "notes": "Implemented suggestions for clearer value proposition and competitive analysis."
-    },
-    {
-      "id": "22",
-      "scheduleId": 2,
-      "date": "2024-05-20",
-      "time": "3:00 PM - 4:00 PM",
-      "activity": "Dry Run for Industry Conference Pitch",
-      "location": "Office Conference Room",
-      "presenters": [
-        "David",
-        "Product Development Team"
-      ],
-      "audience": "Conference Organizers",
-      "purpose_objective": "Practice pitch for upcoming industry conference",
-      "notes": "Focused on tailoring the presentation to match the conference theme and audience expectations."
-    },
-    {
-      "id": "23",
-      "scheduleId": 3,
-      "date": "2024-05-25",
-      "time": "9:30 AM - 10:30 AM",
-      "activity": "Pitch Deck Rehearsal with Public Speaking Coach",
-      "location": "Virtual Meeting",
-      "presenters": [
-        "John",
-        "Public Speaking Coach"
-      ],
-      "audience": "Coach",
-      "purpose_objective": "Refine presentation delivery and receive professional feedback",
-      "notes": "Worked on vocal modulation and body language to enhance presentation impact."
-    },
-    {
-      "id": "24",
-      "scheduleId": 4,
-      "date": "2024-05-28",
-      "time": "1:00 PM - 2:00 PM",
-      "activity": "Investor Relations Meeting",
-      "location": "Investor's Office",
-      "presenters": [
-        "Emma",
-        "David",
-        "CFO"
-      ],
-      "audience": "Investor Relations Team",
-      "purpose_objective": "Provide updates on company progress and future plans",
-      "notes": "Shared recent milestones achieved and discussed upcoming milestones and funding requirements."
-    },
-    {
-      "id": "25",
-      "scheduleId": 5,
-      "date": "2024-06-02",
-      "time": "10:00 AM - 11:00 AM",
-      "activity": "Final Pitch Deck Approval",
-      "location": "CEO's Office",
-      "presenters": [
-        "John",
-        "Board of Directors"
-      ],
-      "audience": "Board Members",
-      "purpose_objective": "Seek final approval for the pitch deck before the big presentation",
-      "notes": "Addressed any last-minute concerns and received unanimous approval."
-    },
-    {
-      "id": "26",
-      "scheduleId": 1,
-      "date": "2024-06-03",
-      "time": "2:00 PM - 3:00 PM",
-      "activity": "Marketing Strategy Discussion",
-      "location": "Conference Room B",
-      "presenters": [
-        "Alice",
-        "Bob"
-      ],
-      "audience": "Marketing Team",
-      "purpose_objective": "Review and finalize the marketing strategy for the upcoming campaign",
-      "notes": "Discussed key tactics and agreed on the next steps."
-    },
-    {
-      "id": "27",
-      "scheduleId": 1,
-      "date": "2024-06-04",
-      "time": "9:00 AM - 10:30 AM",
-      "activity": "Product Development Meeting",
-      "location": "Engineering Department",
-      "presenters": [
-        "Emily",
-        "David"
-      ],
-      "audience": "Product Team",
-      "purpose_objective": "Discuss progress, roadblocks, and future plans for product development",
-      "notes": "Identified blockers and assigned tasks to resolve them."
-    },
-    {
-      "id": "28",
-      "scheduleId": 1,
-      "date": "2024-06-05",
-      "time": "1:00 PM - 2:30 PM",
-      "activity": "Sales Training Session",
-      "location": "Training Room",
-      "presenters": [
-        "Sarah",
-        "Michael"
-      ],
-      "audience": "Sales Team",
-      "purpose_objective": "Provide training on new sales techniques and product updates",
-      "notes": "Conducted role-plays and Q&A sessions for better understanding."
-    },
-    {
-      "id": "29",
-      "scheduleId": 1,
-      "date": "2024-06-06",
-      "time": "11:00 AM - 12:00 PM",
-      "activity": "Team Building Activity",
-      "location": "Outdoor Park",
-      "presenters": [
-        "Team Leads"
-      ],
-      "audience": "Entire Team",
-      "purpose_objective": "Boost team morale and foster better collaboration among team members",
-      "notes": "Engaged in various team-building exercises and games."
-    },
-    {
-      "id": "30",
-      "scheduleId": 1,
-      "date": "2024-06-07",
-      "time": "3:30 PM - 4:30 PM",
-      "activity": "Client Presentation",
-      "location": "Client Office",
-      "presenters": [
-        "Alex",
-        "Grace"
-      ],
-      "audience": "Client Representatives",
-      "purpose_objective": "Present new project proposal and discuss client requirements",
-      "notes": "Received positive feedback and set follow-up meetings."
-    },
-    {
-      "id": "31",
-      "scheduleId": 1,
-      "date": "2024-06-08",
-      "time": "10:00 AM - 11:30 AM",
-      "activity": "Budget Planning Meeting",
-      "location": "Boardroom",
-      "presenters": [
-        "Finance Team"
-      ],
-      "audience": "Management Team",
-      "purpose_objective": "Review current financial status and plan budget allocation for the next quarter",
-      "notes": "Discussed key financial metrics and proposed budget adjustments."
-    },
-    {
-      "id": "32",
-      "scheduleId": 1,
-      "date": "2024-06-09",
-      "time": "2:00 PM - 3:00 PM",
-      "activity": "Project Status Update",
-      "location": "Virtual Meeting",
-      "presenters": [
-        "Project Managers"
-      ],
-      "audience": "Stakeholders",
-      "purpose_objective": "Provide updates on project progress, milestones achieved, and upcoming tasks",
-      "notes": "Reviewed project timeline and addressed stakeholder queries."
-    },
-    {
-      "id": "33",
-      "scheduleId": 1,
-      "date": "2024-06-10",
-      "time": "9:30 AM - 10:30 AM",
-      "activity": "Training Workshop",
-      "location": "Training Center",
-      "presenters": [
-        "Subject Matter Experts"
-      ],
-      "audience": "Employee Trainees",
-      "purpose_objective": "Provide hands-on training on new software tools and techniques",
-      "notes": "Conducted interactive sessions and provided training materials."
+      "purpose_objective": "Showcase product innovation and attract funding"
     }
   ]
 }
