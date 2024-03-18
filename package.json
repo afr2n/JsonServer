@@ -15,12 +15,9 @@
     "node": ">=18.3"
   },
   "scripts": {
-    "dev": "tsx watch src/bin.ts fixtures/db.json",
-    "build": "rm -rf lib && tsc",
-    "test": "node --import tsx/esm --test src/*.test.ts",
-    "lint": "eslint src --ext .ts --ignore-path .gitignore",
-    "prepare": "husky",
-    "prepublishOnly": "npm run build"
+    "build": "npm run compile && npm run start",
+    "compile": "rm -rf lib && tsc",
+    "start": "node lib/bin.js"
   },
   "keywords": [],
   "author": "typicode <typicode@gmail.com>",
